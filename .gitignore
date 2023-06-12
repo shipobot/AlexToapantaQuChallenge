@@ -473,7 +473,7 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-# Windows shortcuts
-*.lnk
-.vscode/launch.json
-.vscode/tasks.json
+# Solution ignored files
+.vscode/
+**/bin/
+**/obj/
