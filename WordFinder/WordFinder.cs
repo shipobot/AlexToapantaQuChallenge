@@ -67,12 +67,13 @@ namespace WordFinder
         public static IEnumerable<string> CreateInvertedMatrix(IEnumerable<string> matrix)
         {
             List<char[]> verticalArrays = new List<char[]>();
-            var matrixSize = matrix.First().Length;
+            var horizontalSize = matrix.First().Length;
+            var verticalSize = matrix.Count();
 
-            for (int x = 0; x < matrixSize; x++)
+            for (int x = 0; x < horizontalSize; x++)
             {
-                var row = new char[matrixSize];
-                for (int y = 0; y < matrixSize; y++)
+                var row = new char[verticalSize];
+                for (int y = 0; y < verticalSize; y++)
                 {
                     row[y] = matrix.ElementAt(y)[x];
                 }
