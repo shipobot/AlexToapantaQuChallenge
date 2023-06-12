@@ -1,0 +1,15 @@
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\bin\Debug\net7.0\WordFinder.exe
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\bin\Debug\net7.0\WordFinder.deps.json
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\bin\Debug\net7.0\WordFinder.runtimeconfig.json
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\bin\Debug\net7.0\WordFinder.dll
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\bin\Debug\net7.0\WordFinder.pdb
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\obj\Debug\net7.0\WordFinder.csproj.AssemblyReference.cache
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\obj\Debug\net7.0\WordFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\obj\Debug\net7.0\WordFinder.AssemblyInfoInputs.cache
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\obj\Debug\net7.0\WordFinder.AssemblyInfo.cs
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\obj\Debug\net7.0\WordFinder.csproj.CoreCompileInputs.cache
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\obj\Debug\net7.0\WordFinder.dll
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\obj\Debug\net7.0\refint\WordFinder.dll
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\obj\Debug\net7.0\WordFinder.pdb
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\obj\Debug\net7.0\WordFinder.genruntimeconfig.cache
+C:\Users\adtoa\Documents\Develop\AlexToapantaQuChallenge\WordFinder\obj\Debug\net7.0\ref\WordFinder.dll
